@@ -146,9 +146,6 @@ Fonte: [Microsoft Skills Outline AZ-104 (oficial)](https://learn.microsoft.com/c
 
 ---
 
-🟢 **Dica Final:** Aprender a automatizar tarefas comuns com scripts (ARM, Bicep, CLI) pode te dar vantagem no exame!
-
+🟢 **Dica Final:** Aprender a automatizar tarefas comuns com scripts (ARM, Bicep, CLI)!
 ---
-
-📚 Bons estudos e boa sorte na sua certificação AZ-104!
 
